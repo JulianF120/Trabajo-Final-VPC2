@@ -209,3 +209,6 @@ __marimo__/
 
 #Dataset
 dataset/*
+
+#Pesos del modelo
+.pth
